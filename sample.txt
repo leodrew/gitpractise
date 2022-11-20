@@ -1,1 +1,2 @@
 git amend pratice
+添加 revert 命令使用 practice
